@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2"
+    "@11ty/eleventy": "^1.0.1",
+    "@sanity/client": "^0.147.3",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
   }
 }
